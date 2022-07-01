@@ -1,0 +1,23 @@
+{
+  "name": "@alexandrakam/platformsnew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandraKam/platformsNew.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandraKam/platformsNew/issues"
+  },
+  "homepage": "https://github.com/AlexandraKam/platformsNew#readme",
+  "dependencies": {
+    "@alexandrakam/platforms": "1.0.0"
+  }
+}
